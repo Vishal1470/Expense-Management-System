@@ -20,7 +20,7 @@ Key Features
 
 4️⃣ Installation Guide 🚀
 🔹 Step 1: Clone the Repository
-git clone https://github.com/your-username/expense-management-system.git
+git clone https://github.com/your-Vishal1470/expense-management-system.git
 cd expense-management-system
 🔹 Step 2: Install Dependencies
 pip install -r requirements.txt
