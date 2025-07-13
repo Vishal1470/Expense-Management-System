@@ -1,4 +1,4 @@
- Project Title: Expense Management System
+1️⃣Project Title: Expense Management System
 2️⃣ Project Description
 This project is a user-friendly Expense Management System designed to help individuals track, manage, and analyze daily income and expenses. Users can add transactions, categorize expenses, monitor budgets, and generate reports to develop financial discipline and saving habits.
 
